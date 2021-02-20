@@ -1,8 +1,7 @@
-.mainsc {width: 50%;
+.right {width: 50%;
     position: absolute;
     right: 0px;
     height: 100%;
-    margin-right: 2%;
 }
 
 /* Full-width input fields */
@@ -51,6 +50,7 @@ button:hover {
 /* Add padding to container elements */
 .container {
   padding: 16px;
+  width: 70%;
 }
 
 /* Clear floats */
